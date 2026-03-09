@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 2-correction de bugs et optimisation du code pour ameliorer  les performances
 3-realisation de tests unitaires et mise a jour de la documenation technique
+=======
+ 1-conception et implementation de nouvelles fonctionnalites selon les specifications definies 
+
+>>>>>>> journalj2
